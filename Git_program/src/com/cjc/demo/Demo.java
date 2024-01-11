@@ -19,6 +19,11 @@ public class Demo {
 		System.out.println("this is m3");
 	}
 	
+	public void m4()
+	{
+		System.out.println("success");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("Hello");
 	}
