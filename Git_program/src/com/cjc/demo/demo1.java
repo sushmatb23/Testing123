@@ -25,6 +25,11 @@ public class demo1 {
 	{
 		System.out.println("success");
 	}
+
+         public void m6()
+	{
+		System.out.println("method m6");
+	}
 	
 		public static void main(String[] args) {
 		System.out.println("Hello");
