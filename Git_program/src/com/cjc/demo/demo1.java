@@ -16,7 +16,12 @@ public class demo1 {
 	{
 		System.out.println("this is m3 method");
 	}
+
 	public void m4()
+	{
+		System.out.println("this is m4 method");
+	}
+	public void m5()
 	{
 		System.out.println("success");
 	}
